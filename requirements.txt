@@ -1,0 +1,5 @@
+folium==0.17.0
+geopandas==1.0.1
+pandas==2.2.2
+pyproj==3.6.1
+shapely==2.0.6
